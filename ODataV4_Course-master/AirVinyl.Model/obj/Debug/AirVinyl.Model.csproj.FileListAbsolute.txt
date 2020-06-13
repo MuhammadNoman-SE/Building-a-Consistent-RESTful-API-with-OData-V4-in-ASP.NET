@@ -1,0 +1,5 @@
+C:\Users\Muhammad.Noman\OneDrive - Bentley Systems, Inc\Documents\GitHub\Building-a-Consistent-RESTful-API-with-OData-V4-in-ASP.NET\ODataV4_Course-master\AirVinyl.Model\bin\Debug\AirVinyl.Model.dll
+C:\Users\Muhammad.Noman\OneDrive - Bentley Systems, Inc\Documents\GitHub\Building-a-Consistent-RESTful-API-with-OData-V4-in-ASP.NET\ODataV4_Course-master\AirVinyl.Model\bin\Debug\AirVinyl.Model.pdb
+C:\Users\Muhammad.Noman\OneDrive - Bentley Systems, Inc\Documents\GitHub\Building-a-Consistent-RESTful-API-with-OData-V4-in-ASP.NET\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.csprojAssemblyReference.cache
+C:\Users\Muhammad.Noman\OneDrive - Bentley Systems, Inc\Documents\GitHub\Building-a-Consistent-RESTful-API-with-OData-V4-in-ASP.NET\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.dll
+C:\Users\Muhammad.Noman\OneDrive - Bentley Systems, Inc\Documents\GitHub\Building-a-Consistent-RESTful-API-with-OData-V4-in-ASP.NET\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.pdb
